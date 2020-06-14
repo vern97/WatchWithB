@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Watch With B</string>
+    <string name="popular">Popular</string>
+    <string name="most_popular_tvshows">Most popular TV Shows</string>
+    <string name="error_fetch_tvshows">Please check your internet connection</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="highest_rated_tvshows">Highest rated TV Shows of all time</string>
+    <string name="on_air">On Air</string>
+    <string name="on_air_tvshows">TV Shows on Air</string>
+    <string name="airing_today">Airing Today</string>
+    <string name="airing_today_tvshows">TV Shows airing today</string>
+</resources>
